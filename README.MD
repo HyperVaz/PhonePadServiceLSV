@@ -31,47 +31,35 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
-
 
 
 ### https://hypervaz.github.io/Center-logistic/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/CenterLogistic.jpg?raw=true" align="left" height="250" width="500" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/CenterLogistic.jpg?raw=true" align="left" style="width: 100%" />  
   
 
 
 
 ### https://hypervaz.github.io/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/phonePadService.jpg?raw=true" align="left" height="" width="500" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/phonePadService.jpg?raw=true" align="left" style="width: 100%" />  
   
 
 
 
 ### https://hypervaz.github.io/Baloons/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/baloons.jpg?raw=true" align="left" height="" width="500" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/baloons.jpg?raw=true" align="left" style="width: 100%" />  
   
 
 
 
 ### https://hypervaz.github.io/game-store/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Game.jpg?raw=true" align="left" height="" width="500" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Game.jpg?raw=true" align="left" style="width: 100%" />  
   
 
 
 
 ### https://hypervaz.github.io/Kinomonster/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Kinomonster.jpg?raw=true" align="left" height="" width="500" />  
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Kinomonster.jpg?raw=true" align="left" style="width: 100%" />  
+  
 
 <br/>  
 
