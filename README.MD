@@ -33,11 +33,11 @@
 
 
 
-### https://hypervaz.github.io/Center-logistic/  
+<div align="center">### https://hypervaz.github.io/Center-logistic/</div> 
 <img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/CenterLogistic.jpg?raw=true" align="left" style="width: 100%" />  
   
 
-
+<br/>  
 
 ### https://hypervaz.github.io/  
 <img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/phonePadService.jpg?raw=true" align="left" style="width: 100%" />  
