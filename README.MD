@@ -3,7 +3,7 @@
 </div>  
   
 
-- <div align="center">Добрый день, меня зовут Тимур и я верстальщик :)</div>  
+- # <div align="center">Добрый день, меня зовут Тимур и я верстальщик :)</div>  
   
 
 <br/>  
@@ -30,6 +30,8 @@
 </div>  
 
 <br/>  
+
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -59,7 +61,17 @@
 
 ### https://hypervaz.github.io/Kinomonster/  
 <img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Kinomonster.jpg?raw=true" align="left" height="" width="500" />  
-  
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
