@@ -67,7 +67,8 @@
 
 <br/>
 
-https://www.codewars.com/users/VaZek/badges/large
+
+[![codewars](https://www.codewars.com/users/VaZeK/badges/large)](https://www.codewars.com/users/VaZek) 
 
 ## Connect with me  
 
