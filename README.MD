@@ -33,7 +33,7 @@
 
 
 
-<div align="center"> ### https://hypervaz.github.io/Center-logistic/</div> 
+<div align="center"> ### https://hypervaz.github.io/Center-logistic/ ###</div> 
 <br/>
 <img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/CenterLogistic.jpg?raw=true" align="left" style="width: 100%" />  
   
@@ -47,19 +47,19 @@
 
 
 ### https://hypervaz.github.io/Baloons/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/baloons.jpg?raw=true" align="left" style="width: 100%" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/baloons.jpg?raw=true" align="left" style="width: 80%" />  
   
 
 
 
 ### https://hypervaz.github.io/game-store/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Game.jpg?raw=true" align="left" style="width: 100%" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Game.jpg?raw=true" align="left" style="width: 80%" />  
   
 
 
 
 ### https://hypervaz.github.io/Kinomonster/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Kinomonster.jpg?raw=true" align="left" style="width: 100%" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Kinomonster.jpg?raw=true" align="left" style="width: 80%" />  
   
 
 <br/>  
@@ -71,7 +71,7 @@
 
 <br/>
 
-<img src="https://www.codewars.com/users/VaZek/badges/large" align="center" style="width: 100%" />
+<img src="https://www.codewars.com/users/VaZek/badges/large" align="center" style="width: 80%" />
 
 ## Connect with me  
 
