@@ -10,8 +10,8 @@
 
 
 
-<div align="center">  
 ## My Skill Set  
+<div align="center"
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
@@ -31,41 +31,37 @@
 </div>  
 
 <br/>  
-
-
-
-<div align="center"> 
 ### https://hypervaz.github.io/Center-logistic/
-</div> 
 <br/>
 <img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/CenterLogistic.jpg?raw=true" align="left" style="width: 100%" />  
-  
-
 <br/>  
 
-<div align="center"> 
 ### https://hypervaz.github.io/  
-</div>
 <br/>
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/phonePadService.jpg?raw=true" align="left" style="width: 80%" />  
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/phonePadService.jpg?raw=true" align="left" style="width: 100%" /> 
+<br/>
   
 
 
 
 ### https://hypervaz.github.io/Baloons/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/baloons.jpg?raw=true" align="left" style="width: 80%" />  
-  
+<br/>
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/baloons.jpg?raw=true" align="left" style="width: 100%" />  
+<br/>
 
 
 
 ### https://hypervaz.github.io/game-store/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Game.jpg?raw=true" align="left" style="width: 80%" />  
-  
+<br/>
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Game.jpg?raw=true" align="left" style="width: 100%" />  
+<br/>
 
 
 
 ### https://hypervaz.github.io/Kinomonster/  
-<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Kinomonster.jpg?raw=true" align="left" style="width: 80%" />  
+<br/>
+<img src="https://github.com/HyperVaz/hypervaz.github.io/blob/main/Kinomonster.jpg?raw=true" align="left" style="width: 100%" />  
+<br/>
   
 
 <br/>  
